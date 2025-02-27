@@ -2,7 +2,7 @@
 
 This repository is dedicated to my studies of Object-Oriented Programming (OOP). Here, I explore various concepts, principles, and techniques used in OOP, applying them through practical examples and exercises.
 
-## Topics Covered
+## Subjects studied
 
 - **Classes and Objects**
 - **Encapsulation**
@@ -11,8 +11,8 @@ This repository is dedicated to my studies of Object-Oriented Programming (OOP).
 - **Abstraction**
 - **Design Patterns**
 - **SOLID Principles**
-  
-Each folder or file represents a different concept or exercise related to OOP, with explanations and code examples.
+
+Each folder or file contains exercises and programs related to OOP, with code examples.
 
 ## How to Use
 
