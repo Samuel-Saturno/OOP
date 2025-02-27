@@ -18,4 +18,4 @@ Each folder or file contains exercises and programs related to OOP, with code ex
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/oop-study.git
+   git clone https://github.com/Samuel-Saturno/OOP.git
