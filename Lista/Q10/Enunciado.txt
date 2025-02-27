@@ -1,0 +1,6 @@
+/*
+ * Escreva uma classe que contenha métodos estáticos para retornar o maior de dois, três,
+ * quatro e cinco valores, considerando que os argumentos e o retorno dos métodos podem
+ * ser dos tipos int e double. Em outra classe, escreva um aplicativo de teste que, sem criar
+ * objetos, demonstre as capacidades da classe criada
+ */
