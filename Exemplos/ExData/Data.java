@@ -1,4 +1,4 @@
-package Exemplos.Ex1;
+package Exemplos.ExData;
 
 public class Data {
     int dia, ano, mes;
