@@ -13,9 +13,3 @@ This repository is dedicated to my studies of Object-Oriented Programming (OOP).
 - **SOLID Principles**
 
 Each folder or file contains exercises and programs related to OOP, with code examples.
-
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Samuel-Saturno/OOP.git
