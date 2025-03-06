@@ -26,5 +26,5 @@
  * (B) Os métodos efetuarSaque e efetuarDeposito não podem ter o mesmo parâmetro.
  * (C) A palavra this está sendo usada de forma incorreta.
  * (D) Um erro de compilação será indicado, pois não há um método construtor.
- * (E) Métodos de mesmo nome não podem ter parâmetros diferentes
+ * (E) Métodos de mesmo nome não podem ter parâmetros diferentes (X Resposta correta)
  */
