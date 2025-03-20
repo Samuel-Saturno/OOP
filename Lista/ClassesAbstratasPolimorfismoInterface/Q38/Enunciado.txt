@@ -1,0 +1,4 @@
+/*
+ * Explique por que não podemoster construtores declarados com a palavra-chave abstract.
+ * RESPOSTA: Uma classe abstrata não pode ser utilizada para instanciar objetos.
+ */
