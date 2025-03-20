@@ -1,0 +1,38 @@
+/*
+ * [IDECAN- 2019- IF-PB- Professor- Informática] Dadas as seguintes classes, todas no
+ * mesmo pacote:
+ * public class Mamifero {
+ * protected void andar() {
+ * System.out.print("Mamifero andando");
+ * ouvir();
+ * }
+ * protected void ver() {
+ * System.out.print("Mamifero vendo");
+ * }
+ * protected void ouvir() {
+ * System.out.print("Mamifero ouvindo");
+ * ver();
+ * }
+ * }
+ * public class Primata extends Mamifero {
+ * protected void andar() {
+ * System.out.print("Primata andando");
+ * ouvir();
+ * }
+ * }
+ * public class Homem extends Primata {
+ * protected void ver() {
+ * System.out.print("Homem vendo");
+ * }
+ * public static void main(String[] args) {
+ * Mamifero m = new Homem();
+ * m.andar();
+ * }
+ * }
+ * Qual é a saída deste programa?
+ * (A) Mamífero andando Mamífero ouvindo Mamífero vendo
+ * (B) Primata andando Mamífero ouvindo Homem vendo
+ * (C) Uma exception será lançada: MethodNotFoundException
+ * (D) Mamífero andando Mamífero ouvindo Homem vendo
+ * (E) Primata andando Mamífero ouvindo Mamífero vendo
+ */
