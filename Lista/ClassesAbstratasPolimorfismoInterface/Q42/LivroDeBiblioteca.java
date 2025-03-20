@@ -1,6 +1,6 @@
 package Lista.ClassesAbstratasPolimorfismoInterface.Q42;
 
-public class LivroDeBiblioteca extends Livro {
+public class LivroDeBiblioteca extends Livro implements ItemDeBiblioteca {
     private boolean emprestimo;
     private String prateleira, desc;
 
